@@ -1,4 +1,7 @@
 first string
 second string
 third line
-second line
+forth line
+
+fifth line
+sixth line
