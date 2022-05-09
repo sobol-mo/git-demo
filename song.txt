@@ -9,3 +9,7 @@ sixth line
 some additional content
 and here!
 -------------------------------
+
+The content of branch feature:
+first line
+second line
