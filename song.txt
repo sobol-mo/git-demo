@@ -5,7 +5,3 @@ forth line
 
 fifth line
 sixth line
-
-some additional content
-and here!
--------------------------------
