@@ -11,7 +11,4 @@ and here!
 -------------------------------
 
 The content of branch feature:
-first line
-second line
-
-Content for next commit 
+some content 
