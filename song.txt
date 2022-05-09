@@ -3,6 +3,11 @@ second string
 third line
 forth line
 
+
 Some content added in main branch:
 first line
 second line
+
+Some content added in feature branch:
+bla bla bla
+
