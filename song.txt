@@ -11,3 +11,4 @@ second line
 Some content added in feature branch:
 bla bla bla
 
+Some content for tag commit
