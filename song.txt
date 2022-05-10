@@ -4,11 +4,4 @@ third line
 forth line
 
 
-Some content added in main branch:
-first line
-second line
-
-Some content added in feature branch:
-bla bla bla
-
-Some content for tag commit
+Content to be saved

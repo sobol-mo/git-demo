@@ -1,0 +1,6 @@
+# no .log fils
+*.log
+
+#no target and bin directories
+target/
+bin/
